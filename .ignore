@@ -13,6 +13,9 @@ venv/
 artifacts/
 cache/
 \*.dbg.json
+Solidity/Solidity_Fundamentals/.deps/
+Solidity/Solidity_Fundamentals/.states/
+ Solidity/Solidity_Fundamentals/artifacts/
 
 # === PyCharm IDE ===
 
