@@ -19,6 +19,8 @@ cache/
 .idea/ 
 **/.idea/ 
 \*.iml
+\*.deps/
+**/.states/
 
 # === Node.js (if using Hardhat later) ===
 
