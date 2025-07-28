@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28fc2fa8-88b1-4fca-b463-7202a72db958" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/Python/my_codes/Day16_regextry.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/my_codes/Day16_regextry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Day16_regextry.executor": "Run",
     "Python.day16_regex.executor": "Run",
+    "Python.day18_browser(network_sockets).executor": "Run",
+    "Python.day19_urllib.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -75,7 +78,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-af26db0dccfe-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.26775.22" />
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
